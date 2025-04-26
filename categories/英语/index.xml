@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Topikal</title>
-        <link>https://boredkl.github.io/</link>
-        <description>Recent content on Topikal</description>
+        <title>英语 on Topikal</title>
+        <link>https://boredkl.github.io/categories/%E8%8B%B1%E8%AF%AD/</link>
+        <description>Recent content in 英语 on Topikal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Topikal</copyright>
-        <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://boredkl.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://boredkl.github.io/categories/%E8%8B%B1%E8%AF%AD/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>英语作文常见替换词</title>
         <link>https://boredkl.github.io/p/compositionsection/</link>
         <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
@@ -87,32 +87,6 @@
 &lt;li&gt;&lt;strong&gt;强调任务感或重大意义的活动&lt;/strong&gt; → 使用：&lt;code&gt;undertaking&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://boredkl.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://boredkl.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://boredkl.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://boredkl.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;抽刀断水水更流，举杯消愁愁更愁
-头皮膏 2025.4&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://boredkl.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://boredkl.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
