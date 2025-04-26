@@ -14,8 +14,12 @@
         
         <guid>https://boredkl.github.io/p/compositionsection/</guid>
         <description>&lt;img src="https://boredkl.github.io/post/eng/1.jpg" alt="Featured image of post 英语作文常见替换词" /&gt;&lt;p&gt;感谢ChatGTPT独家赞助播出&lt;/p&gt;
-&lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=700947830&amp;bvid=BV1Nm4y1J7Gu&amp;cid=1196745347&amp;p=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;听歌！&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding: 30% 45%;&#34;&gt;
+&lt;iframe 
+  src=&#34;//player.bilibili.com/player.html?bvid=BV1Nm4y1J7Gu&amp;page=1&#34;  scrolling=&#34;no&#34;  style=&#34;position: absolute; width: 80%; height: 80%; left: 0; top: 0;&#34; frameborder=&#34;no&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+听歌！
 &lt;h2 id=&#34;表示activity的词汇&#34;&gt;表示“Activity”的词汇
 &lt;/h2&gt;&lt;h3 id=&#34;1-通用高级替换词&#34;&gt;1. 通用高级替换词
 &lt;/h3&gt;&lt;table&gt;
